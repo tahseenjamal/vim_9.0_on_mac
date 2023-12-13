@@ -1,4 +1,5 @@
-# vim_9.0_on_mac
+# VIM 9.0 on Mac OS Sonoma 14.1.12
+
 How to setup vim 9.0 with homebrew
 
 This is about how to install vim 9.0 version on **Mac OS Sonoma 14.1.12**

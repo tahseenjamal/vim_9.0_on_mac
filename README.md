@@ -11,7 +11,7 @@ Install vim using brew command
     brew install vim
 Go inside the folder using cd command
 
-    cd /usr/local/Cellar/vim/9.0.2150/share/vim/vim90/
+    cd /usr/local/Cellar/vim/<HIT TAB>/share/vim/vim<HIT TAB>/
 Then create symbolic link of bin folder inside it
 
     ln -s ../../../bin
@@ -20,7 +20,7 @@ Then go to the below folder
     cd /usr/local
 And create another symbolic link
 
-    sudo ln -s /usr/local/Cellar/vim/9.0.2150/share/vim/vim90 vim
+    sudo ln -s /usr/local/Cellar/vim/<HIT TAB>/share/vim/vim<HIT TAB> vim
 
 Next add below in your .profile or .zprofile file
 
